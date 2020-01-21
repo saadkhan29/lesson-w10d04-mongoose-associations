@@ -3,7 +3,8 @@ Creator:
 Location: SF
 -->
 
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+# ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+# ![](https://misk.org.sa/miskacademy/wp-content/uploads/sites/5/2019/04/ma-logo-1.png) 
 
 # Data Associations with Mongoose
 
